@@ -1,9 +1,10 @@
-### Termux.dev
+### مخزن افزودن فارسی به وبگاه ترموکس
 
-This is the source repository for [termux.github.io](https://termux.github.io) and its custom domain [termux.dev]. The [termux.org] is redirected to [termux.dev]. The [termux.com](https://termux.com/) is mirrored from [termux/termux.com](https://github.com/termux/termux.com) currently, until it can be redirected to [termux.dev].
-##
+وبگاه رسمی ترموکس، [termux.dev] است ولی کارهای ترجمه و توسعه‌، بر روی وبگاه این مخزن به نشانی [amiria703.github.io/termuxfa] صورت می‌پذیرد.
 
+## تعامل
 
+برای ارتباط با مدیر مخزن، با تلگرام [@amiria703](amiria703.t.me) و برای تعامل با دیگر کاربران، با گروه رسمی ترموکس، بخش #فارسی [t.me/termux24x7/98340] می‌توانید در ارتباط باشید.
 
 ## Run locally
 
