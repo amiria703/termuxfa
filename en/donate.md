@@ -37,6 +37,15 @@ Become our [github sponsor](https://github.com/sponsors) at https://github.com/s
 [@landfillbaby](https://github.com/landfillbaby) makes contributions to all the repositories, but she mostly focuses on package updates. Donate through [Ko-fi](https://ko-fi.com/landfillbaby), [Liberapay](https://liberapay.com/landfillbaby), or [PayPal.Me](https://paypal.me/landfillbaby).
 
 
+### Sylirre
+
+[@sylirre](https://github.com/sylirre) makes contributions to all repositories and is the author of [PRoot-Distro](https://github.com/termux/proot-distro) utility. Donate cryptocurrency to:
+
+* ETH: `0x76c7f1FC3C7396396fBD7e8cBDc2fc741FFa4aFa`
+* LTC: `ltc1q2yne7e2p5ypf2ky0j3tg3vd6yktd5u57rmlly9`
+* TRX: `TUP941DmHfrBNxvbcYkThx9hHrskU7FyTa`
+
+
 ### Yaksh Bariya
 
 [@thunder-coding](https://github.com/thunder-coding) maintains `nodejs`, and often updates critical dependencies in main repo. Mostly packaging work and other chore tasks. Visit [Yaksh Bariya's website](https://thunder-coding.github.io/sponsor/) for more information.
@@ -49,7 +58,7 @@ Become our [github sponsor](https://github.com/sponsors) at https://github.com/s
 
 ### Fornwall
 
-[@fornwall](https://github.com/fornwall) is the creator of the [@termux](https://github.com/termux) project and was for several years the sole termux developer and created the apps and ported many packages, but is currently inactive. You can donate through https://paypal.me/fornwall, https://www.patreon.com/termux, or by buying the (now [deprecated](https://github.com/termux/termux-app#google-play-store-deprecated) and basically non-working) termux addon apps on Google play ([Termux:API](https://play.google.com/store/apps/details?id=com.termux.api), [Termux:Float](https://play.google.com/store/apps/details?id=com.termux.window), [Termux:Widget](https://play.google.com/store/apps/details?id=com.termux.widget), [Termux:Styling](https://play.google.com/store/apps/details?id=com.termux.styling), [Termux:Tasker](https://play.google.com/store/apps/details?id=com.termux.tasker), [Termux:Boot](https://play.google.com/store/apps/details?id=com.termux.boot)). *Note that any donations sent to [termux's patreon](https://www.patreon.com/termux) account controlled by fornwall are not shared with rest of the members to support* **current** *termux development/costs, so consider moving to Open Collective instead. However, if you want to support fornwall's past work, then you can of course send donations to him.*
+[@fornwall](https://github.com/fornwall) is the creator of the [@termux](https://github.com/termux) project and was for several years the sole Termux developer and created the apps and ported many packages. He now independently maintains an experimental fork of Termux app on [Google Play Store](https://github.com/termux/termux-app#google-play-store-experimental-branch) from https://github.com/termux-play-store, and also maintains Termux packages. You can donate through https://paypal.me/fornwall or https://www.patreon.com/fornwall.
 ##
 
 *Note for [@termux](https://github.com/termux) maintainers: Feel free to add/update/delete your donation links on [page source(s)](@SITE__URL@/blob/master/@PAGE__LANG@/donate.md) (of all languages).*
